@@ -1,0 +1,9 @@
+{
+	"ip":"Server_SMP_mepc.aternos.me",
+	"port": "31465",
+	"name": "SpidermanNo",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
