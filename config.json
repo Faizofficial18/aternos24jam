@@ -3,7 +3,7 @@
 	"port": "31465",
 	"name": "SatPamServer",
 	"auto-night-skip":"false",
-	"login-enabled":"false",
-	"register-cmd":"/register pass123 ",
-	"login-cmd":"/login pass123 "
+	"login-enabled":"true",
+	"register-cmd":"/register serverbang ",
+	"login-cmd":"/login serverbang "
 }
