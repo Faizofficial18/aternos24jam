@@ -1,6 +1,6 @@
 {
-	"ip":"Server_SMP_mepc.aternos.me",
-	"port": "31465",
+	"ip":"faznauserver.aternos.me",
+	"port": "21656",
 	"name": "SatPamServer",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
